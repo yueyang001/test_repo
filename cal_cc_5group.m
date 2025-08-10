@@ -54,3 +54,5 @@ fprintf('\n=== PLCC ===\n');
 fprintf('Mean平均数:  %.4f\n', mean(plcc_all));
 fprintf('Median中位数: %.4f\n', median(plcc_all));
 fprintf('Mode众数:  %.4f\n', mode(plcc_all));
+fprintf('Mode众数:  %.4f\n', mode(plcc_all));
+
